@@ -1,0 +1,1 @@
+str = "Welcome to NTU Rails 261"  #using a variation to save the world
